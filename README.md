@@ -57,9 +57,9 @@ Configuration:
 | Stage           | Latency (ms) |
 |-----------------|--------------|
 | Preprocessing   | ~5.7         |
-| GPU Inference   | ~21.2        |
-| Post-processing | ~4.8         |
-| **End-to-End**  | **~31.7**    |
+| GPU Inference   | ~21.9        |
+| Post-processing | ~4.0         |
+| **End-to-End**  | **~31.6**    |
 
 <img width="821" height="164" alt="image" src="https://github.com/user-attachments/assets/d82f4993-30a3-4ed9-8f7a-89d15f04bf31" />
 
@@ -67,8 +67,8 @@ Configuration:
 
 ### Latency Distribution
 
-- End-to-end latency p50: ~31.9 ms
-- End-to-end latency p95: ~33.6 ms
+- End-to-end latency p50: ~31.4 ms
+- End-to-end latency p95: ~35.2 ms
 
 The narrow gap between average and p95 latency indicates stable real-time performance with minimal jitter.
 
