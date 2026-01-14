@@ -3,7 +3,8 @@ Real-time object detection pipeline using a TensorRT-optimized YOLOv8 model on N
 
 ## Demo
 
-<img width="612" height="729" alt="image" src="https://github.com/user-attachments/assets/5542ea3e-0ea0-492d-8a48-be4411797f4a" />
+<img width="653" height="756" alt="image" src="https://github.com/user-attachments/assets/bf804c33-0bdf-4050-a108-6086c914b0ff" />
+
 
 The demo script performs live webcam inference, drawing bounding boxes and class labels in real time.
 The script classifies objects from the COCO 80 class labels for YOLOv8 engines. 
